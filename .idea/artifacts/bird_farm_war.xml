@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bird_farm:war">
+    <output-path>$PROJECT_DIR$/bird_farm/target</output-path>
+    <root id="archive" name="bird_farm-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="bird_farm:war exploded" />
+    </root>
+  </artifact>
+</component>
