@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfb60b23-f055-4fce-b225-0650720b43ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/controller/BirdRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/appConfig/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a7d46435-fe73-4337-ac1d-6d2032ffb68a.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bird_farm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/BirdFarmApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/BirdFarmApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/BirdIncubator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/controller/BirdController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dao/BirdEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dao/BirdEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dao/repository/BirdRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dao/repository/BirdRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dto/BirdDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dto/BirdDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dto/BirdListDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/dto/BirdListDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/services/BirdService.java" beforeDir="false" afterPath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/services/BirdService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/services/BirdServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/bird_farm/src/main/java/com/ua/bird/farm/bird_farm/services/BirdServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird_farm/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bird_farm/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/store/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/controller/MagasController.java" beforeDir="false" afterPath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/controller/MagasController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/services/GetBirdFromFarmServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/store/src/main/java/com/ua/store/store/services/GetBirdFromFarmServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/store/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="dfb60b23-f055-4fce-b225-0650720b43ad" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bird_farm/target/" />
     <ignored path="$PROJECT_DIR$/store/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -413,20 +392,19 @@
       <workItem from="1538553319664" duration="9791000" />
       <workItem from="1538653985263" duration="5131000" />
       <workItem from="1538952775157" duration="662000" />
-      <workItem from="1538953851481" duration="275000" />
+      <workItem from="1538953851481" duration="561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48486000" />
+    <option name="totallyTimeSpent" value="48772000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="3" visible="true" weight="0.20948827" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.20948827" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -443,8 +421,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3267974" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28944564" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32897604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28944564" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -464,6 +442,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
